@@ -84,6 +84,6 @@ Select Inbound Security Rules from side panel. Add and update rule to deny any i
 <img width="1137" alt="Screenshot 2023-07-05 at 12 31 36 AM" src="https://github.com/technicallyjac/azure-network-protocols/assets/138219436/6d75e7f9-0f59-43a2-989e-0904a8972420">
 </p>
 <p>
-Return to VM1 running Windows 10 and ping VM2's private network again. The ping should return a "Request Timed Out" status, indicatinng the secruity rule was added successfully. 
+Return to VM1 running Windows 10 and ping VM2's private network again. The ping should return a "Request Timed Out" status, indicating the secruity rule was added successfully. 
 </p>
 <br />
